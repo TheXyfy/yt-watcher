@@ -1,0 +1,24 @@
+{
+  "name": "yt-watcher",
+  "version": "0.0.1",
+  "description": "Watch Youtube without any Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheXyfy/yt-watcher.git"
+  },
+  "keywords": [
+    "youtube",
+    "watcher",
+    "nwjs"
+  ],
+  "author": "TheXyfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheXyfy/yt-watcher/issues"
+  },
+  "homepage": "https://github.com/TheXyfy/yt-watcher#readme"
+}
